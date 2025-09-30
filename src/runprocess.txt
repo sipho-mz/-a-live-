@@ -1,0 +1,8 @@
+To run this project, follow these steps:
+
+1. Open your terminal in the project root directory and run: 
+  "./mvnw clean install" or "mvn clean install"
+  
+2.  Execute the generated JAR file: 
+  "java -jar target/basic-microservice-0.0.1-SNAPSHOT.jar"
+
