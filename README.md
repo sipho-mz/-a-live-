@@ -1,2 +1,2 @@
-# live-grid
-A disaggregated network of shared information and resource that needs to adapt to point failures, while keeping the state of the whole system coherent and live.
+# live-over-web
+A small spring application created with spring boot and spring web to familiarise myself with the spring beans and to get the project running.
